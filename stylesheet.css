@@ -35,8 +35,8 @@
   }
   
   .header {
-    width: 900px;
-    height: 300px;
+    width: auto;
+    height: 150px;
     display: flex;
     justify-content: space-between;
   }
@@ -68,7 +68,6 @@
 .last-item {
     order: -1;
 }
-
 .subscribe,
 .social {
     align-self: flex-end;
@@ -88,7 +87,7 @@
 .footer-item {
     border: 1px solid #fff;
     background-color: #D6E9FE;
-    height: 200px;
+    height: 119px;
     flex: 1;
 }
 
